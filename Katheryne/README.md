@@ -1,4 +1,4 @@
-# Hosting your discord.py bot on Heroku
+How to host Katheryne yourself on Heroku?
 ### What are the prerequisites for this guide?
 You must have an account for Discord [[Link](https://discordapp.com/developers/applications/)], GitHub [[Link](https://github.com/join)] , and Heroku [[Link](https://signup.heroku.com/)].
 
@@ -23,7 +23,3 @@ You must have an account for Discord [[Link](https://discordapp.com/developers/a
   * Switch the worker from off to on.
   * Click 'Confirm' to finalize the decision.
   * NOTE: You are allocated 550 free Dyno hours, which will not last the entire month. However, if you provide a credit card to verify your identity, you are given an additional 450 hours, which will allow your bot to run indefinitely.
-
-# TO-DO LIST
-* Revise the tutorial to be easier to understand for any user.
-* Add some images for following along with the process.
